@@ -77,7 +77,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["에스파 카리나는 예뻐요"],
               "videos":["https://youtu.be/1w03AHjFoT4?si=HYNsuDg5UYhe_bgC"]},
-    labels[1]:{"texts":["에스파 윈터는 예쁘지요"]},
+    labels[1]:{"texts":["에스파 윈터는 예쁘지요"],
+              "videos":[""]},
     labels[2]:{"texts":["에스파 지젤은 이쁘지요"]},
 }
 
