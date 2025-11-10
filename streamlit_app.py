@@ -80,7 +80,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[1]:{"texts":["에스파 윈터는 예쁘지요"],
               "videos":["https://youtu.be/MvLSfIB8w90?si=jQXBh-VTC8Il--Dq"]},
     labels[2]:{"texts":["에스파 지젤은 이쁘지요"],
-              "videos":[]},
+              "videos":[https://youtu.be/243Wa_l5NVc?si=HXW6_yhbVJozI_Dc]},
 }
 
 
