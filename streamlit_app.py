@@ -76,8 +76,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts":["에스파 카리나는 예뻐요"],
-              "videos":["https://youtu.be/1w03AHjFoT4?si=HYNsuDg5UYhe_bgC"]},
+              "videos":["https://youtu.be/1w03AHjFoT4?si=HYNsuDg5UYhe_bgC"],
               "images":["https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/09/06/3f08ef50-cba0-4e67-9b03-24e6f966f15b.jpg"]
+              },
+              
     labels[1]:{"texts":["에스파 윈터는 예쁘지요"],
               "videos":["https://youtu.be/MvLSfIB8w90?si=jQXBh-VTC8Il--Dq"]},
     labels[2]:{"texts":["에스파 지젤은 이쁘지요"],
